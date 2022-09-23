@@ -17,4 +17,5 @@ nav.menu-nav ul li.btn:hover a{
 }
 p{
 	color: blue;
+	background-image: url("img/fond.jpg")
 }
