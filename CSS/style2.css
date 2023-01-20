@@ -19,7 +19,7 @@ p{
 	color: blue;
 	
 }
-#ex1{
+body{
 	background-image: linear-gradient(
     	to bottom,
     	rgba(255, 255, 0, 0.5),
