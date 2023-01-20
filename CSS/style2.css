@@ -20,5 +20,5 @@ p{
 	
 }
 ex1{
-	background-image: url("monsite/img/fond.jpg")
+	background: url("test.jpg") repeat-y;
 }
