@@ -24,12 +24,5 @@ ex1{
     to bottom,
     rgba(255, 255, 0, 0.5),
     rgba(0, 0, 255, 0.5)
-  ), url("catfront.png");
-
-/* Global values */
-	background-image: inherit;
-	background-image: initial;
-	background-image: revert;
-	background-image: revert-layer;
-	background-image: unset;
+  ), url("fond.png");
 }
